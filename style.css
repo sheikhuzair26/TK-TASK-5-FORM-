@@ -1,0 +1,88 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.Main1 {
+    background-color: rgb(103, 58, 183);
+    height: 278px;
+}
+
+.Main2 {
+    background-color: #ede7f6;
+    font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
+    height: 323vh;
+}
+
+.absolute {
+    height: 310vh;
+    position: relative;
+    width: 713px;
+    margin-left: 81px;
+    top: -115px;
+    background-color: white;
+    box-shadow: 0px 0px 4px 1px black;
+}
+
+.common {
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.commoninfo {
+    padding-left: 40px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.text-class {}
+
+.aria {
+    padding-left: 40px;
+    padding-right: 34px;
+    font-size: larger;
+}
+
+/* box */
+
+.inputtext {
+    width: 220px;
+    overflow: hidden;
+    border-bottom: 1px solid #c8c8c8;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 9px;
+    outline: none;
+}
+
+.table {
+    border: none;
+    outline: none;
+    border-top: none;
+    background-color: #ebe8f0;
+}
+
+.inputtext-comment {
+    width: 100%;
+    overflow: hidden;
+    border-bottom: 1px solid #c8c8c8;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 9px;
+    outline: none;
+}
+
+.button-submit {
+    position: absolute;
+    margin-top: 71px;
+    margin-left: 44px;
+    padding-left: 28px;
+    padding-right: 26px;
+    border-radius: 7px;
+    padding: 4px;
+    border-color: white;
+    background-color: #1f52ec;
+    color: white;
+}
